@@ -1,2 +1,19 @@
-<h1 style="text-align: center;">Hola, mi nombre es Iván Dávila y soy Desarrolador Web</h1>
-<img style="width: calc(100%-100px); height: 300px;"  src="https://mexmads.com/wp-content/uploads/2023/01/1015202-1024x576.png" alt="">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+</style>
+<body>
+    <h1>Hola, mi nombre es Iván Dávila y soy Desarrollador Web</h1>
+</body>
+</html>
