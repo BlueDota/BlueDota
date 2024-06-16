@@ -4,5 +4,5 @@
     </h1>
 
 
-<img style=" margin-left:50%; padding: 1rem;" src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.webp" alt="">
+<img style=" margin-left:50%; " src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.webp" alt="">
 
