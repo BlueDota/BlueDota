@@ -6,6 +6,7 @@
     <div style="width: 100%; height: 500px; background-color: #74768d;">
 
     <div> bloque1 </div>
+
     <div> bloque2 </div>
 
    </div>
