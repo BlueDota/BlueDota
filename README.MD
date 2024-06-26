@@ -2,3 +2,12 @@
 |--------------|--------------|
 | Celda 1,1    | Celda 1,2    |
 | Celda 2,1    | Celda 2,2    |
+
+```javascript
+function saludar() {
+console.log("Hola, mundo!");
+}
+saludar();
+```
+
+
